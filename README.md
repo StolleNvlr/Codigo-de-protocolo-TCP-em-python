@@ -5,4 +5,5 @@ codigo usado para apresentação de um seminario na cadeira de Programação Ori
 https://youtu.be/PpsEaqJV_A0?si=kZs9xcjVhz3tdCaK (What is TCP/IP) <br/>
 Chatgpt, Copilot, Gemini, Llama 3 <br/>
 https://youtu.be/uwoD5YsGACg?si=pCrZ4DdZqi3ixKgS (TCP vs UDP Comparison) <br/>
-https://www.fortinet.com/br/resources/cyberglossary/tcp-ip-model-vs-osi-model (Modelo OSI e TCP/IP)
+https://www.fortinet.com/br/resources/cyberglossary/tcp-ip-model-vs-osi-model (Modelo OSI e TCP/IP) <br/>
+https://youtu.be/F27PLin3TV0?si=8SzGP5-10JJjhD_Y (TCP Walkthrough)
